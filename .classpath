@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="tomcat 4.1.12源码"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/IskyneWorkSpace/apache-tomcat-6.0.45/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="E:/IskyneWorkSpace/apache-tomcat-6.0.45/lib/catalina.jar"/>
+	<classpathentry kind="lib" path="E:/IskyneWorkSpace/Java/工具jar/tomcat-juli.jar"/>
+	<classpathentry kind="lib" path="E:/IskyneWorkSpace/Java/工具jar/commons-collections4-4.1/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="E:/IskyneWorkSpace/Java/工具jar/commons-digester3-3.2/commons-digester3-3.2.jar" sourcepath="E:/IskyneWorkSpace/Java/Open source/commons-digester3-3.2-src.zip"/>
+	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
+</classpath>
